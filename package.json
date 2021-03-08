@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs/laravel-echo",
+  "name": "@nuxtjs/laravel-echo-v5",
   "version": "1.1.0",
   "description": "Laravel Echo for Nuxt.js",
   "repository": "nuxt-community/laravel-echo",
